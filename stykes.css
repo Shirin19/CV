@@ -1,0 +1,42 @@
+body {
+  background-color: #86898f;
+  color: #f8f8f8;
+  font-size: 16px;
+  font-weight: normal;
+
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  color: rgb(255, 247, 247);
+}
+h2 {
+  font-size: x-large;
+  font-style: normal;
+  color: rgb(250, 250, 250);
+}
+#avatar {
+  width: 250;
+  border-radius: 28px;
+  box-shadow: 4pc 4px 14px
+    rgba(rgb(255, 238, 0), rgb(250, 253, 54), blue, alpha);
+}
+
+.study {
+  width: auto;
+  background: rgb(241, 160, 167);
+}
+
+.social {
+  background: rgb(0, 0, 0);
+}
+.work {
+  background: rgb(188, 216, 205);
+
+  padding-bottom: auto;
+}
+
+.metod {
+  background: rgb(241, 160, 167);
+
+  border: 4px, rgba(25, 0, 255, 0.356);
+}
